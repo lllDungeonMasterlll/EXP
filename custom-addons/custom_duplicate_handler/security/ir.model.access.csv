@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+custom_duplicate_handler.access_duplicate_archive_log_user,access_duplicate_archive_log_user,custom_duplicate_handler.model_duplicate_archive_log,base.group_user,1,1,1,1
+custom_duplicate_handler.access_duplicate_archive_log_admin,access_duplicate_archive_log_admin,custom_duplicate_handler.model_duplicate_archive_log,base.group_system,1,1,1,1
