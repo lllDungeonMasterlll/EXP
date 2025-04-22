@@ -1,9 +1,0 @@
-django
-djangorestframework
-fastapi
-uvicorn
-gunicorn
-celery
-redis
-psycopg2-binary
-pydantic
